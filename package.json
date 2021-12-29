@@ -6,7 +6,11 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^7.2.1",
+<<<<<<< HEAD
     "axios": "^0.24.0",
+=======
+    "axios": "^0.21.2",
+>>>>>>> e5a4dedf5cdab706e879da837ea7b1e4df777526
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^2.1.3"
